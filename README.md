@@ -4,6 +4,7 @@ a script that manages my local git repos</br>
 This script keeps your local git repos in a simple text file that is located in `~/scripts/gitbaby/gitRepos` </br>
 So the script will assume that the file exists in that particular directory. </br>
 
+##Installation
 To install the script you should place it in `~/scripts/gitbaby/` </br>
 and then add the following alias to your .bashrc: </br>
 `alias gitbaby='. $HOME/scripts/gitbaby/gitbaby.sh'`

@@ -6,6 +6,8 @@ So the script will assume that the file exists in that particular directory. </b
 If you place the gitRepos file elsewhere you'll have to modify the script accordingly.
 
 ##Installation
+make sure the script has an execute permession: </br>
+`chmod +x tarbaby.sh` </br>
 To install the script (gitbaby.sh) you should place it in `~/scripts/gitbaby/` (or any other directory of your choice). </br>
 and then add the following alias to your .bashrc: </br>
 `alias gitbaby='. $HOME/scripts/gitbaby/gitbaby.sh'` </br>

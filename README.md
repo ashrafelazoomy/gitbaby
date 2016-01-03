@@ -7,11 +7,8 @@ If you place the gitRepos file elsewhere you'll have to modify the script accord
 
 ##Installation
 make sure the script has an execute permession: </br>
-`chmod +x tarbaby.sh` </br>
-To install the script (gitbaby.sh) you should place it in `~/scripts/gitbaby/` (or any other directory of your choice). </br>
-and then add the following alias to your .bashrc: </br>
-`alias gitbaby='. $HOME/scripts/gitbaby/gitbaby.sh'` </br>
-(or maybe you wanna change the path in the alias according to where you placed the gitbaby.sh) 
+`chmod +x gitbaby.sh` </br>
+To install the script (gitbaby.sh) you should place it anywhere in you $PATH. For example: `/usr/bin/`.
 
 ##Sample Usage
 `gitbaby init nameOfTheRepo` </br>

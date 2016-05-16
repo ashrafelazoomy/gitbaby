@@ -20,8 +20,8 @@ To install the script (gitbaby.sh) you should place it anywhere in you $PATH. Fo
 `gitbaby cd nameOfRepo` </br>
 **what it does:** `cd /path/to/repo/associated/with/nameOfRepo`
 
-`gitbaby add /path/to/repo/ nameOfTheRepo` </br>
-**what it does:** it adds the repo located in /path/to/repo to the gitRepos file with the name specified. </br>
+`gitbaby add /path/to/repo/` </br>
+**what it does:** it adds the repo located in /path/to/repo to the gitRepos file.</br>
 
 ##TODO:
 * we need a removal mechanism, to remove deleted repos from the gitRepos file. </br>

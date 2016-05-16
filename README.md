@@ -24,5 +24,5 @@ To install the script (gitbaby.sh) you should place it anywhere in you $PATH. Fo
 **what it does:** it adds the repo located in /path/to/repo to the gitRepos file.</br>
 
 ##TODO:
-* we need a removal mechanism, to remove deleted repos from the gitRepos file. </br>
-* we also need to validate inputs before the script can execute.
+* [ ] we need a removal mechanism, to remove deleted repos from the gitRepos file. </br>
+* [ ] we also need to validate inputs before the script can execute.
